@@ -13,7 +13,7 @@ github_username:  loremipsum
 gplus_username:  loremipsum
 linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
-profile_picture: https://drive.google.com/file/d/1lSi9_fvXeuZdDccOg-TecT7scnmdY3Vx/view
+profile_picture: https://i.ibb.co/pwz3bWY/profile.jpg
 
 # Build settings
 markdown: kramdown
@@ -47,7 +47,7 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: https://github.com/ladyomega
+      url: "https://github.com/ladyomega"
       new_tab: true
       key_trigger: g
     - title: twitter
